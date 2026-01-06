@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Propostas Comerciais com IA",
+  "description": "Um aplicativo web para criar, customizar e gerar propostas comerciais profissionais. Utilize a IA para ajudar a redigir seções-chave e, em seguida, imprima ou salve sua proposta como PDF com um único clique.",
+  "requestFramePermissions": []
+}
